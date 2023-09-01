@@ -1,0 +1,17 @@
+h1{
+    font-size: 25px; color: blueviolet; background-color: darkblue;
+}
+h2{
+    font-size: 50px; color: chartreuse; background-color: crimson;
+}
+p{
+    font-size: 10px; color: chocolate; background-color: darkolivegreen;
+}
+.img01{
+    width: 40px;
+    height: 30px;
+}
+.img02{
+    width: 70px;
+    height: 80px;
+}

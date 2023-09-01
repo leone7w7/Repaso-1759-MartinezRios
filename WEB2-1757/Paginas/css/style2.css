@@ -1,0 +1,17 @@
+h1{
+    font-size: 30px; color: rgb(42, 126, 53); background-color: rgb(211, 52, 52);
+}
+h2{
+    font-size: 20px; color: rgb(204, 185, 17); background-color: rgb(3, 1, 94);
+}
+p{
+    font-size: 40px; color: rgb(19, 61, 95); background-color: rgb(68, 26, 26);
+}
+.img01{
+    width: 70px;
+    height: 60px;
+}
+.img02{
+    width: 80px;
+    height: 60px;
+}
